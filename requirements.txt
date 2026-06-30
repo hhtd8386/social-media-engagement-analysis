@@ -1,0 +1,8 @@
+pandas
+numpy
+transformers
+torch
+sqlalchemy
+pyodbc
+matplotlib
+scikit-learn
