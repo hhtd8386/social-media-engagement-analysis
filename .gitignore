@@ -11,5 +11,3 @@ model/
 *.pt
 *.pth
 *.bin
-# Nếu file Tableau của bạn lưu dưới dạng .twbx (nó đóng gói cả data bên trong nên rất nặng)
-*.twbx
