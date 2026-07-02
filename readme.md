@@ -130,8 +130,6 @@ A BERT-based NLP pipeline was developed to classify both **emotion** and **overa
 - Neutral
 - Negative
 
-**Model Accuracy:** **70–75%**
-
 ---
 
 # 🗄 Database Design
@@ -305,7 +303,8 @@ social-media-engagement-analysis/
 
 Potential future improvements include:
 
-🌐 Collect Real-World Data
-🤖 Enhance Sentiment Model
-🔄 Real-Time API Integration
-🌍 Multilingual Prediction
+- 🌐 Collect Real-World Data
+- 🤖 Enhance Sentiment Model
+- 🔄 Real-Time API Integration
+- 🌍 Multilingual Prediction
+
